@@ -1,0 +1,24 @@
+
+Jest to kolejna kolekacja zetonow NFT utworzona z okazji demoparty XENIUM 2o24 
+Cala pula zetownow nft to 12 sztuk, zetony dostepne sa na blockchaine w sieci Poligon. 
+Idea jest taka ze zeton tzn jeden NFT jest znaczkiem, plakietka cztms w rodzajiu pamiatka z party.   
+
+Nizej znajduja sie wszytkie potrzebne dane ktore pozwola na wyminotowanie czyli uzyskanie żetona - mintowanie to oplata za gaz w sieci Poligon. 
+
+
+Aby wyMintowac / zdobyc token nft mozna to zrobic na 2 sposoby: 
+- jedne latwiejszy, czyli odwidzisz strone https://xenium-2o24-nft.vercel.app
+- lub za pomoca kontraktu na polygonscan, gdzie mozna rowniez sprawdzic kontrakt oraz wejsc w interakcje z blockchainem tzn mozne wyMintowc kolejnego z 11 pamiatkowego NFT - koszt mintu to aktualna cena gazu na sieci Poligon 
+
+    https://polygonscan.com/address/0x555b16C0B1C3EB2564e89c614e5bED54931B45b6
+    https://polygonscan.com/token/tokenholderchart/0x555b16C0B1C3EB2564e89c614e5bED54931B45b6
+
+
+kontract - XENIUM_2o24_NFT adress to: 0x555b16C0B1C3EB2564e89c614e5bED54931B45b6
+    
+
+Gdy juz wymintujesz zeton NFT, Twoj NFT automatycznie pokaze sie w serwisie https://opensea.io/ jeśli podlaczysz tam swoj portfel.
+
+
+
+
