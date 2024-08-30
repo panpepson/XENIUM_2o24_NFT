@@ -1,24 +1,31 @@
 
-Jest to kolejna kolekacja zetonow NFT utworzona z okazji demoparty XENIUM 2o24 
-Cala pula zetownow nft to 12 sztuk, zetony dostepne sa na blockchaine w sieci Poligon. 
-Idea jest taka ze zeton tzn jeden NFT jest znaczkiem, plakietka cztms w rodzajiu pamiatka z party.   
-
-Nizej znajduja sie wszytkie potrzebne dane ktore pozwola na wyminotowanie czyli uzyskanie żetona - mintowanie to oplata za gaz w sieci Poligon. 
+compo: Willd 
+autor: Pepson 
+nazwa: Xenium_NFT_2024 
 
 
-Aby wyMintowac / zdobyc token nft mozna to zrobic na 2 sposoby: 
-- jedne latwiejszy, czyli odwidzisz strone https://xenium-2o24-nft.vercel.app
-- lub za pomoca kontraktu na polygonscan, gdzie mozna rowniez sprawdzic kontrakt oraz wejsc w interakcje z blockchainem tzn mozne wyMintowc kolejnego z 11 pamiatkowego NFT - koszt mintu to aktualna cena gazu na sieci Poligon 
+Jest to kolejna kolekacja żetonów NFT utworzona z okazji Demoparty XENIUM 2024
+
+Cała pula żetownów NFT to 12 sztuk, żetony dostępne są na blockchaine w sieci Poligon. 
+
+Idea jest taka, że żeton tzn jeden NFT jest znaczkiem, plakietką czymś w rodzaju pamiątka z party.   
+
+Co ciekawe tegoroczny NFT posiada dźwiek, co nie jest częste w tego typy formacie, ponieważ należ zmieścic się w 24576 bytes, aby kod kontrakt reprezentujacy NFT został dodany do bloku w łańcuchy bloków. 
+
+Niżej znajdują się wszytkie potrzebne dane które pozwolą na wyminotowanie czyli uzyskanie żetona - mintowanie to jedynie opłata za gas w sieci Poligon, sam żeton jest darmowy. 
+
+
+Aby wyMintować / zdobyć token NFT można to zrobić na 2 sposoby:
+ 
+- łatwiejszy, czyli odwiedzić stronie https://xenium-2o24-nft.vercel.app i postepowac z sugestiami zawartymi na stopnie www,  
+
+- lub za pomocą kontraktu na polygonscan, gdzie można również sprawdzić kontrakt oraz wejść w interakcje z blockchainem tzn możne wyMintowć NFT używajac funkcji mint. 
 
     https://polygonscan.com/address/0x555b16C0B1C3EB2564e89c614e5bED54931B45b6
-    https://polygonscan.com/token/tokenholderchart/0x555b16C0B1C3EB2564e89c614e5bED54931B45b6
-
-
-kontract - XENIUM_2o24_NFT adress to: 0x555b16C0B1C3EB2564e89c614e5bED54931B45b6
     
+kontrakt - X_2o24_NFT adress kontraktu to: 0x555b16C0B1C3EB2564e89c614e5bED54931B45b6
+   
 
-Gdy juz wymintujesz zeton NFT, Twoj NFT automatycznie pokaze sie w serwisie https://opensea.io/ jeśli podlaczysz tam swoj portfel.
 
-
-
+Willd_Pepson_Xenium_NFT_2024.zip
 
