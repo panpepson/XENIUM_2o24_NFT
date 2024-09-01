@@ -89,7 +89,7 @@ h1 {margin: 30px;}
          });
 const networkId = await web3.eth.net.getId();
        if (networkId === 137) {
-const contractAddress = '0x555b16C0B1C3EB2564e89c614e5bED54931B45b6';
+const contractAddress = '0x7Ef9aBF3F46C5ED7dDcDf7FabA0F802b9Bd8be23';
 const contract = new web3.eth.Contract(contractABI, contractAddress);
             const accounts = await web3.eth.getAccounts();
             const userAddress = accounts[0];
@@ -120,7 +120,7 @@ Kliknij <b>"+ Importuj NFT"</b><br><br>
 Wprowadź Adres kontraktu: <b>${contractAddress}</b><br>
 Wprowadź Token ID: <b>${tokenId}</b><br>
 Kliknij "Dodaj".<br><br>
-Albo odwiedź strone <a href="https://opensea.io/">https://opensea.io</a> i zaloguj się tam portfelem którym mintowaleś token, token już tam powinien być 🤠🤖</div>`;
+Albo odwiedź strone <a href="https://opensea.io/collection/xenium-2o24-nft">https://opensea.io</a> i zaloguj się tam portfelem którym mintowaleś token, token już tam powinien być 🤠🤖</div>`;
 const tokenURI = await contract.methods.tokenURI(tokenId).call();
 document.getElementById('saveAndOpenButton').style.display = 'block'; 
 var dataToDecode = tokenURI.replace("data:application/json;base64,", "");
