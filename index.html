@@ -100,7 +100,7 @@ const contract = new web3.eth.Contract(contractABI, contractAddress);
             const numMinted = await contract.methods.numMinted().call();
             const userBalance = await contract.methods.balanceOf(userAddress).call();
 if (numMinted >= 12) {
-              document.getElementById('buyInfo').innerHTML = '<b>Bida 🤔 ziom, spóźniłeś się </b>teraz już tylko możesz zdobyć już wymintowane <b>Xenium_2o24_NFT</b> na <a href="https://opensea.io/" target="_blank">https://opensea.io</a>';
+              document.getElementById('buyInfo').innerHTML = '<b>Bida 🤔 ziom, spóźniłeś się </b>teraz już tylko możesz zdobyć już wymintowane <b>Xenium_2o24_NFT</b> na <a href="https://opensea.io/collection/xenium-2o24-nft" target="_blank">https://opensea.io</a>';
             } else if (userBalance > 0) {
             document.getElementById('buyInfo').innerHTML = `<br><br><h2> 🧅  Masz już 🧅 jeden token <b>Xenium_2o24_NFT</b> daj szansę innym 🫲😍🫱</h2> <br>Więcej INFO znajdziesz na jego temat w kontrakcie <a href="https://polygonscan.com/address/${contractAddress}" target="_blank">${contractAddress}</a>`;
             } else {
@@ -120,7 +120,7 @@ Kliknij <b>"+ Importuj NFT"</b><br><br>
 Wprowadź Adres kontraktu: <b>${contractAddress}</b><br>
 Wprowadź Token ID: <b>${tokenId}</b><br>
 Kliknij "Dodaj".<br><br>
-Albo odwiedź strone <a href="https://opensea.io/collection/xenium-2o24-nft">https://opensea.io</a> i zaloguj się tam portfelem którym mintowaleś token, token już tam powinien być 🤠🤖</div>`;
+Albo odwiedź strone <a href="https://opensea.io/collection/xenium-2o24-nft">https://opensea.io</a> i zaloguj się tam portfelem którym mintowaleś token, token już tam https://github.com/panpepson/XENIUM_2o24_NFT/blob/main/index.htmlpowinien być 🤠🤖</div>`;
 const tokenURI = await contract.methods.tokenURI(tokenId).call();
 document.getElementById('saveAndOpenButton').style.display = 'block'; 
 var dataToDecode = tokenURI.replace("data:application/json;base64,", "");
