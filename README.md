@@ -4,7 +4,8 @@ DemoParty NFT - Xenium 2024 NFT colection by pepson max supplay - 12 nfts - cont
 ## Demo Video
 https://github.com/panpepson/XENIUM_2o24_NFT/blob/main/Xenium-NFT-2024.mp4
 
-#Versja 2024 v1 - stary kntrakt wyslany na party, ale ze orgi nie kumają co to łańcuch blokow i juz inne ziomki na Świeci ocenily owe NFT wie ziomki wybraly wszytkie tokenty :)  Wiec dzis zapodaje nowy kontrakt moze cos sie komus na pozniej uchowa 
+#Versja 2024 v1 - stary kntrakt wysłany na party, ale że orgi nie kumają co to łańcuch bloków  ponieważ naodgladali się chyba za dużo TV 
+Więc gdy kontrakt na blockchainie sobie wisiał i to inne ziomki na Świeci ocenily go pozytywnie i wybrały wszytkie NFT :)  Więc dziś zapodaję nowy kontrakt może on się komuś na co przyda a napewnoe zostanie na wieki do poki nie zginie sieć Poligon i github - amen :)  
 https://polygonscan.com/address/0x555b16c0b1c3eb2564e89c614e5bed54931b45b6#code
 
 #Versja 2024 v2 - obecna - na www jest juz now kontrakt
