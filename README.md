@@ -1,8 +1,12 @@
 # XENIUM_2o24_NFT
 DemoParty NFT - Xenium 2024 NFT colection by pepson max supplay - 12 nfts - contract available on Poligon blockchain  is's a commemorative NFT's, something like a - St.Jacob's shell :)
 
+https://youtu.be/y4q5hYtiMB4
+
 ## Demo Video
 https://github.com/panpepson/XENIUM_2o24_NFT/blob/main/Xenium-NFT-2024.mp4
+
+[![Watch the video](https://img.youtube.com/vi/y4q5hYtiMB4/maxresdefault.jpg)](https://www.youtube.com/watch?v=y4q5hYtiMB4)
 
 #Versja 2024 v1 - stary kntrakt wysłany na party, ale że orgi nie kumają co to łańcuch bloków  ponieważ naodgladali się chyba za dużo TV 
 Więc gdy kontrakt na blockchainie sobie wisiał i to inne ziomki na Świeci ocenily go pozytywnie i wybrały wszytkie NFT :)  Więc dziś zapodaję nowy kontrakt może on się komuś na co przyda a napewnoe zostanie na wieki do poki nie zginie sieć Poligon i github - amen :)  
